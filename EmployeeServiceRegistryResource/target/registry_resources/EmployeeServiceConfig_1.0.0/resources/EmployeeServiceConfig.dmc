@@ -1,0 +1,12 @@
+map_S_Request_S_root = function(){ 
+var outputroot={};
+
+outputroot =  {};
+outputroot.name = inputRequest.name;
+outputroot.salary = (inputRequest.salary).toString();
+outputroot.age = (inputRequest.age).toString();
+return outputroot;
+};
+
+
+
