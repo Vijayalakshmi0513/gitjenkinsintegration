@@ -1,0 +1,8 @@
+map_S_Request_S_root = function(){ 
+var outputroot={};
+
+outputroot =  {};
+outputroot.name = 1*inputRequest.name*inputRequest.age;
+return outputroot;
+};
+
